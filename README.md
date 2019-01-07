@@ -15,6 +15,9 @@ year = {2018},
 ## The dataset
 The [dataset](https://pavis.iit.it/index.php/datasets/autism-spectrum-disorder-detection-dataset) contains trials performed by both autistic kids and control subjects. Main task is to perform this two-class classification.
 
+![Grasping](./attention.png)
+
+
 ## The code 
 This repo is based on [this public code](https://github.com/kracwarlock/action-recognition-visual-attention) implementing an [attention-based LSTM](https://arxiv.org/abs/1511.04119v3) and is meant to classify autistic kids from the kinematics of motion. It contains:
 - matlab scripts for estracting CNN features from the video frames (GoogleNet - Caffe) 
