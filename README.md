@@ -32,3 +32,7 @@ This repo is based on [this public code](https://github.com/kracwarlock/action-r
 * [h5py](http://docs.h5py.org/en/latest/)
 * Matlab
 * [Caffe](https://github.com/BVLC/caffe)
+
+
+## License
+This repository is released under the MIT LICENSE.
