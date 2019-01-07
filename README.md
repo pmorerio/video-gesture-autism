@@ -24,7 +24,6 @@ This repo is based on [this public code](https://github.com/kracwarlock/action-r
 - python scripts for the actual LSTM training (theano)
 
 ### (Main) Dependencies
-
 * Python 2.7
 * [NumPy](http://www.numpy.org/)
 * [scikit learn](http://scikit-learn.org/stable/index.html)
