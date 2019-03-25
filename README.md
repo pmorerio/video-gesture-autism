@@ -1,7 +1,7 @@
 # Video Gesture Analysis for Autism Spectrum Disorder Detection
 
 ## Reference
-Code for the paper **Video Gesture Analysis for Autism Spectrum Disorder Detection**, Zunino et al, ICPR 2018 ( [pdf](https://www.researchgate.net/publication/327751352_Video_Gesture_Analysis_for_Autism_Spectrum_Disorder_Detection), [proceedings](https://ieeexplore.ieee.org/xpl/mostRecentIssue.jsp?punumber=8527858))
+Code for the paper **Video Gesture Analysis for Autism Spectrum Disorder Detection**, Zunino et al, ICPR 2018 ([pdf](https://www.researchgate.net/publication/327751352_Video_Gesture_Analysis_for_Autism_Spectrum_Disorder_Detection), [proceedings](https://ieeexplore.ieee.org/xpl/mostRecentIssue.jsp?punumber=8527858))
 
 ```
 @inproceedings{2018_ICPR,
